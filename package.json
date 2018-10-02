@@ -19,8 +19,12 @@
     "LICENSE",
     "package.json"
   ],
-  "author": "Marc Reuter <marc@twisted-pair.de>",
+  "author": "Marc Reuter <marc@mr-web.info>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mreuter/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mreuter/eslint-config#readme",
   "dependencies": {
     "eslint": "^5.6.1",
     "eslint-config-airbnb": "^17.1.0",
